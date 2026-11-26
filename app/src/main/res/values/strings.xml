@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Messenger Thread Blocker</string>
+    <string name="notification_listener_label">Messenger Thread Blocker</string>
+    <string name="gemini_aistudio_url">https://aistudio.google.com/apikey</string>
+</resources>
