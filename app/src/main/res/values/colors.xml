@@ -8,6 +8,8 @@
     <color name="status_ok_text">#137333</color>
     <color name="status_warn_bg">#FEF7E0</color>
     <color name="status_warn_text">#B06000</color>
+    <color name="status_error_bg">#FCE8E6</color>
+    <color name="status_error_text">#C5221F</color>
     <color name="blocked_text">#C5221F</color>
     <color name="allowed_text">#137333</color>
     <color name="text_primary">#1F1F1F</color>
